@@ -6,3 +6,7 @@
 Brain-even game demonstration
 
 [![asciicast](https://asciinema.org/a/oU96SVjCjfGdo3OSiGhsui2rC.svg)](https://asciinema.org/a/oU96SVjCjfGdo3OSiGhsui2rC)
+
+Brain-calc game demonstration
+
+[![asciicast](https://asciinema.org/a/SdNAnHAgMrpn9ZLm9GeU8aR3d.svg)](https://asciinema.org/a/SdNAnHAgMrpn9ZLm9GeU8aR3d)
