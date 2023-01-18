@@ -3,5 +3,6 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/3c4a10d1b77687e60284/maintainability)](https://codeclimate.com/github/marinavasyukova/python-project-49/maintainability)
 
-Brain-even game
-<script id="asciicast-oU96SVjCjfGdo3OSiGhsui2rC" src="https://asciinema.org/a/oU96SVjCjfGdo3OSiGhsui2rC.js" async></script>
+Brain-even game demonstration
+
+[![asciicast](https://asciinema.org/a/oU96SVjCjfGdo3OSiGhsui2rC.svg)](https://asciinema.org/a/oU96SVjCjfGdo3OSiGhsui2rC)
