@@ -15,4 +15,3 @@ def make_question():
     else:
         expected_answer = num1 * num2
     return question, str(expected_answer)
-

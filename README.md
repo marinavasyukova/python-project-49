@@ -10,3 +10,7 @@ Brain-even game demonstration
 Brain-calc game demonstration
 
 [![asciicast](https://asciinema.org/a/SdNAnHAgMrpn9ZLm9GeU8aR3d.svg)](https://asciinema.org/a/SdNAnHAgMrpn9ZLm9GeU8aR3d)
+
+Brain-gcd (greatest common divisor) game demonstration
+
+[![asciicast](https://asciinema.org/a/cJZGVkI0KgDjvFjfqgTm4a259.svg)](https://asciinema.org/a/cJZGVkI0KgDjvFjfqgTm4a259)

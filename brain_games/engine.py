@@ -1,6 +1,7 @@
 import prompt
 import brain_games.games.calc
 import brain_games.games.even
+import brain_games.games.gcd
 
 
 def welcome_user():
@@ -20,6 +21,8 @@ def run_game(game_question):
             question, expected_answer = brain_games.games.calc.make_question()
         elif brain_games.games.even.game_question == game_question:
             question, expected_answer = brain_games.games.even.make_question()
+        elif brain_games.games.gcd.game_question == game_question:
+            question, expected_answer = brain_games.games.gcd.make_question()
         print(f'Question: {question}')
         answer = input('Your answer: ')
         if answer == expected_answer:
@@ -30,5 +33,4 @@ def run_game(game_question):
             print(f"Let's try again, {name}!")
             break
     if index == 3:
-        print(f'Congratulations, {name}!')        
-
+        print(f'Congratulations, {name}!')

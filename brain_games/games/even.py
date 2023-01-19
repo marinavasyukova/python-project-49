@@ -13,4 +13,3 @@ def make_question():
     rand_number = randint(1, 100)
     expected_answer = check_even(rand_number)
     return rand_number, expected_answer
-    
