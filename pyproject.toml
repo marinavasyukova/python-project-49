@@ -1,10 +1,18 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "Five console mini-games for brain training"
 authors = ["Marina Vasyukova <marina.vasyukova@icloud.com>"]
 readme = "README.md"
 packages = [{include = "brain_games"}]
+repository = "https://github.com/marinavasyukova/python-project-49"
+classifiers = [
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.10",
+    "Topic :: Games/Entertainment",
+    "Environment :: Console"
+]
 
 [tool.poetry.dependencies]
 python = "^3.10"
