@@ -18,3 +18,7 @@ Brain-gcd (greatest common divisor) game demonstration
 Brain-progression game demonstration
 
 [![asciicast](https://asciinema.org/a/UjPyvXYgqG6kP0AoLSW55g9jG.svg)](https://asciinema.org/a/UjPyvXYgqG6kP0AoLSW55g9jG)
+
+Brain-prime game demonstration
+
+[![asciicast](https://asciinema.org/a/zdIk5MAa7K3mlwE1zmmJCj1mp.svg)](https://asciinema.org/a/zdIk5MAa7K3mlwE1zmmJCj1mp)
