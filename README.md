@@ -1,10 +1,10 @@
 # Brain games
+---
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/marinavasyukova/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/marinavasyukova/python-project-49/actions)
-
 [![Maintainability](https://api.codeclimate.com/v1/badges/3c4a10d1b77687e60284/maintainability)](https://codeclimate.com/github/marinavasyukova/python-project-49/maintainability)
 
-
+---
 
 ## Description
 **Brain games** is a simple brain training Cli-utility, which consists of 5 games:
@@ -17,7 +17,9 @@
 
 Each game asks questions and waits for answer from user. After 3 correct answers game is passed. After first incorrect answer game is over.
 
-It's the first training project on Hexlet 'Python debeloper' course.
+It's the first training project on Hexlet 'Python developer' course.
+
+---
 
 ## Installation
 
@@ -36,6 +38,7 @@ or
     make build            # create package in dist/
     make package-install  # install package
     ```
+---
 
 ## Usage and demo
 
